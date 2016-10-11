@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::vs_twitter_plugin"
+msgid "Twitter Plugin"
+msgstr "Twitter Plugin"
+
+msgctxt "LanguageName"
+msgid "Localized language name"
+msgstr "English"
+
+msgctxt "Addons::description::vs_twitter_plugin"
+msgid "Get Tweets at your Store"
+msgstr "Get Tweets at your Store"

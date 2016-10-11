@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>vs_twitter_plugin</id>
+    <version>1.0</version>
+    <priority>42949294</priority>
+    <position>0</position>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <default_language>en</default_language>
+    <settings>
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="page">
+                        <type>text</type>
+                        <name>Page</name>
+                    </item>
+                    <item id="width">
+                        <type>text</type>
+                        <name>Width</name>
+                    </item>
+                    <item id="height">
+                        <type>text</type>
+                        <name>Height</name>
+                    </item>
+                </items> 
+            </section>
+        </sections> 
+    </settings>                  
+ </addon>
